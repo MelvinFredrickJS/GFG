@@ -13,7 +13,7 @@ class Main {
             String line = br.readLine();
             String[] tokens = line.split(" ");
 
-            // Create an ArrayList to store the integers
+            // Create an ArrayList to store  integers
             ArrayList<Integer> array = new ArrayList<>();
 
             // Parse the tokens into integers and add to the array
