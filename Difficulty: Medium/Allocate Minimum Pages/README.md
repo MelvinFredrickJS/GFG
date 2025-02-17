@@ -2,7 +2,7 @@
 <ul>
 <li><span style="font-size: 14pt;">Each student receives <strong>atleast</strong> one book.</span></li>
 <li><span style="font-size: 14pt;">Each student is assigned a contiguous sequence of books.</span></li>
-<li><span style="font-size: 14pt;">No book is assigned to more than one student.</span></li>
+<li><span style="font-size: 14pt;">No book is assigned to more than one Student</span></li>
 </ul>
 <p><span style="font-size: 14pt;">The objective is to minimize the maximum number of pages assigned to any student. In other words, out of all possible allocations, find the arrangement where the student who receives the most pages still has the smallest possible maximum.</span></p>
 <p><span style="font-size: 18px;"><strong>Note</strong>: Return <strong>-1</strong> if a valid assignment is not possible, and allotment should be in contiguous order (see the explanation for better understanding).</span></p>
