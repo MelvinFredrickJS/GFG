@@ -84,7 +84,7 @@ class Solution {
 
         while (curr != null) {
 
-            // Terminate the loop when either 
+            // Terminate the loop when 
               // current == null or count >= k
             int count = 0;
             while (curr != null && count < k) {
