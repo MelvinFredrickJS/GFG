@@ -22,7 +22,7 @@ public class Main {
         System.out.println("~");
     }
 
-    // Insert node into the list in a sorted manner
+    // Insert node into the list in  sorted manner
     public static Node insertSorted(Node head, int data) {
         Node newNode = new Node(data);
         if (head == null || head.data >= data) {
