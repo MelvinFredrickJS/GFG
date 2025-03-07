@@ -16,7 +16,7 @@ class Main {
             // Create an ArrayList to store  integers
             ArrayList<Integer> array = new ArrayList<>();
 
-            // Parse the tokens into integers and add to the array
+            // Parse the tokens into int and add to the array
             for (String token : tokens) {
                 array.add(Integer.parseInt(
                     token)); // Use Integer.parseInt to parse int values
